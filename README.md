@@ -9,6 +9,7 @@ The tools are expected to do the following:
 - [ ] Download the latest [Ubuntu Server] LTS.
 - [ ] Flash the SD card.
 - [ ] Replace the /Volumes/system-boot/network-config with the interpolated one.
+- [ ] Replace the /Volumes/system-boot/user-data with the interpolated one.
 - [ ] Setup the ~/.ssh/config with the credentials created
 - [ ] Provision the [Kubernetes] cluster
 - [ ] Remove [Kubernetes] cluster
